@@ -1,3 +1,3 @@
 # NextLevelWeek-2
 
-Front-End of a plataform directed to students and teachers.
+Project of a plataform directed to students and teachers.
